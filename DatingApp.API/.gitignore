@@ -1,4 +1,11 @@
+# >> VSCODE
 .vscode
 bin
 obj
 *.db
+# << VSCODE
+
+# >> HIDE API KEYS
+appsettings.json
+appsettings.Development.json
+# << HIDE API KEYS
